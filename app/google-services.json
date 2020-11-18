@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "799386028790",
+    "firebase_url": "https://fir-00-5dc20.firebaseio.com",
+    "project_id": "fir-00-5dc20",
+    "storage_bucket": "fir-00-5dc20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799386028790:android:da0b0b4d1918d568b13ad7",
+        "android_client_info": {
+          "package_name": "com.example.shopapp0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799386028790-7u19k90bri74dappr2n3n2kr3ntfc97t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopapp0",
+            "certificate_hash": "8882d2206e1a4275bd5438c719b9dc4d4bb79a53"
+          }
+        },
+        {
+          "client_id": "799386028790-cgp2fj692rfvkdlspd2nflurcb4u8k2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpqnrd9v32e1dlyvDJjUKORttVEviFzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799386028790-cgp2fj692rfvkdlspd2nflurcb4u8k2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799386028790:android:5b613a9308da0751",
+        "android_client_info": {
+          "package_name": "com.example.shopingapp00"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799386028790-cgp2fj692rfvkdlspd2nflurcb4u8k2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpqnrd9v32e1dlyvDJjUKORttVEviFzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799386028790-cgp2fj692rfvkdlspd2nflurcb4u8k2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
